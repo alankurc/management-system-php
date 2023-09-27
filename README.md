@@ -13,7 +13,7 @@
   </a>
 
 <h3 align="center">System Management</h3>
-![STATUS][STATUS]
+<p align="center" style="background-color: green; display: inline-block; padding: 5px 10px; font-size: 12px"><strong>WIP</strong></p>
 
 </section>
 
